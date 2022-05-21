@@ -8,6 +8,4 @@
         });
     }
 
-    // TODO: add custom logic here
- 857e3; d95477bfbd9c93fb04804a64d0007c1c075;
 })();
